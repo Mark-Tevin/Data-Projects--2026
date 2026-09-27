@@ -1,4 +1,4 @@
-# Mark Tevin Simiyu — Data Science Portfolio
+# Mark Tevin Simiyu — Data Portfolio
 
 > **Data**
 
