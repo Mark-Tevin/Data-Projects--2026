@@ -17,6 +17,7 @@ Display a summary of total sales, profits and quantity for the current year and 
 
 **Sales Trends**
 – Present the data for each KPI on a monthly basis for both the current year and the previous year.
+
 – Identify months with highest and lowest sales and make them easy to recognize.
 
 **Product Subcategory Comparison**
